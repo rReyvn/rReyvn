@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  I'm still on journey to be programmer <br>
-  I want to be a backend programmer and develop mobile application using Flutter or develop a website
- </p>
+  Journey to be programmer
+</p>
  
 <p align="center">
   You can Reach me on : <br>
